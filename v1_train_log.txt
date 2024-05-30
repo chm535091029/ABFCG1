@@ -1,0 +1,1 @@
+epoch 	loss 	fusion-loss 	valid-bleu 	valid-em 	lr 
