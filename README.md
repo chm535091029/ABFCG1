@@ -22,7 +22,7 @@ tree-sitter                   0.20.2
 ```
 Our method mainly including two stages:(1) CodeKG establishment (2) Generating code by ABFCG.
 ## CodeKG establishment
-We have published the processed datasets in the dir named "processed_datasets", if you want to create your dataset, keep reading this section, or you can skip it.
+
 ### Create KG 
 We use Neo4j to store the knowledge graph, so please install it before this step. And then create a knowledge graph with your own address, username and password. 
 The function to establish CodeKG is in the folder of
