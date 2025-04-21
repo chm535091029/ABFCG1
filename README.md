@@ -65,7 +65,7 @@ codesearchnet-nontrain_att
 codesearchnet-train_att
 ```
 where "codesearchnet-nontrain_att" and "codesearchnet-train_att" are the AST Adjacency matrix.
-You can directly obtain the data in link：https://drive.google.com/drive/folders/19zvi_xbGHwdcXGTU2R8-yWhz7WusMNHq?usp=drive_link
+
 ##  Generating code by ABFCG
 To train our model, run the python file below in main folder
 ```
