@@ -1,0 +1,14 @@
+javalang==0.13.0
+py2neo==2021.2.3
+rouge==1.0.1
+sklearn==0.0.post4
+tokenizers==0.13.3
+tomli==2.0.1
+torch==1.13.1+cu116
+torch-geometric==2.3.1
+torchaudio==0.13.1+cu116
+torchdata==0.6.1
+torchtext==0.14.0
+torchvision==0.14.1+cu116
+tree-sitter==0.20.2
+transformers==4.11.3
